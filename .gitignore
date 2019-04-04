@@ -1,5 +1,8 @@
-# Object file
-*.o
+# exclude all doc files and content
+/doc/*
 
-# Ada Library Information
-*.ali
+# exclude all ext folders and content
+/ext/*
+
+# exclude all powerpoint folders and content
+/powerpoint/*
